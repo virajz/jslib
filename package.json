@@ -1,0 +1,13 @@
+{
+	"name": "jslib",
+	"version": "1.0.0",
+	"repository": "git@github.com:virajz/jslib.git",
+	"author": "Viraj Zaveri <zaveri.viraj@gmail.com>",
+	"license": "MIT",
+	"scripts": {
+		"compile": "rm -rf dist/lib && tsc && tsc --build tsconfig.es5.json"
+	},
+	"devDependencies": {
+		"typescript": "^5.1.3"
+	}
+}

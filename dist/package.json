@@ -1,0 +1,30 @@
+{
+	"name": "@viraj/utils",
+	"version": "0.0.1",
+	"description": "A set of JS utilities",
+	"main": "lib/es5/index.js",
+	"module": "lib/es6/index.js",
+	"sideEffects": false,
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/virajz/jslib.git"
+	},
+	"files": [
+		"lib",
+		"CHANGELOG.md",
+		"LICENSE",
+		"package.json",
+		"README.MD"
+	],
+	"keywords": [
+		"javascript",
+		"utils",
+		"utilities"
+	],
+	"author": "Viraj Zaveri",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/virajz/jslib/issues"
+	},
+	"homepage": "https://github.com/virajz/jslib#readme"
+}
