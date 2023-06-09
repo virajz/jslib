@@ -1,5 +1,5 @@
 {
-	"name": "@viraj/utils",
+	"name": "@virajz/utils",
 	"version": "0.0.1",
 	"description": "A set of JS utilities",
 	"main": "lib/es5/index.js",
